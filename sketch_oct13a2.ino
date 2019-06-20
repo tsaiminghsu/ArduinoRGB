@@ -2,7 +2,7 @@
 //0、1腳位可以直接給藍牙就不用額外再定義了，13腳位是預設給arduino板子上的LED燈
 #include <SoftwareSerial.h>
 #include <Wire.h>  //引用二個函式庫SoftwareSerial及Wire SoftwareSerial 
-#define max_char 12 //定義RGB字串  R255G255B255 加上 '\0'結束字元共12字元
+#define max_char 12 //定義RGB字串  R255G255B255 加上 '\0' 結束字元共13字元
 
 SoftwareSerial BT(10, 11); //定義PIN10及PIN11分別為RX及TX腳位
 char message[max_char];    // stores you message
