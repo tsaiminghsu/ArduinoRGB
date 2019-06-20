@@ -3,4 +3,4 @@
 ### mp3模組搜尋 "Voice Playback Module Board MP3 Reminder For Arduino"
 ![image](https://github.com/tsaiminghsu/ArduinoRGB/blob/master/Screenshot_20190620-074730.png)
 ![image](https://github.com/tsaiminghsu/ArduinoRGB/blob/master/Voice%20Playback%20Module%20Board%20MP3%20Reminder%20For%20Arduino.jpg)
-![image]()
+![image](https://github.com/tsaiminghsu/ArduinoRGB/blob/master/common_anode_rgb_led_pinout.png)
